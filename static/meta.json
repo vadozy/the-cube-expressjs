@@ -1,0 +1,18 @@
+[
+  {
+    "key": 1,
+    "label": "File 01",
+    "file": {
+      "meta": "filename-meta-data-01.json",
+      "data": ["file01_a.json", "file01_b.json"]
+    }
+  },
+  {
+    "key": 2,
+    "label": "File 02",
+    "file": {
+      "meta": "filename-meta-data-02.json",
+      "data": ["file02_a.json", "file02_b.json"]
+    }
+  }
+]
